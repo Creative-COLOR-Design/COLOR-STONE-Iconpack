@@ -12,6 +12,8 @@ Creative COLOR Design Produces✨
 <img src="" height="220"/>
 </p>
 
+#
+#
 
 # Features: :radio_button: 
 - Material Design dashboard.🎨
@@ -19,10 +21,16 @@ Creative COLOR Design Produces✨
 - Apply section with 20 supported launchers.✨
 - Cloud based Wallpapers.🎉
 
+#
+#
+
 # About Codes: :page_with_curl:
 - Based on Blueprint v2.3.4 version.💎
 - Remove some module from original codes.🔨
 - Improve some details.🔧
+
+#
+#
 
 # Licenses💎
 # Source Code Licenses
@@ -67,6 +75,9 @@ This Application file which the package of APK, is shared under the [Attribution
 - The APK file of this application repository Release is only intended for free distribution and follow the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0). Not for commericial purposes.
 - The Copyright of this Application's APK file belong to developer Little Design.
 
+#
+#
+
 # Preview🎁
 <p align="center">
 <img src="" height="350"/>
@@ -80,3 +91,6 @@ This Application file which the package of APK, is shared under the [Attribution
 <img src="" height="220"/>
 </p>
 
+#
+---
+#
