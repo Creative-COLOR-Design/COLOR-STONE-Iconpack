@@ -67,7 +67,7 @@ This Application file which the package of APK, is shared under the [Attribution
 	See the License for the specific language governing permissions and
 	limitations under the License.
 - The free APK file of this application repository Release is only intended for free distribution and follow the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0). Not for commericial purposes.
-- The Copyright of this Application's APK file belong to developer Little Design.
+- The Copyright of this Application's APK file belong to developer Creative Design.
 
 
 # Preview🎁
