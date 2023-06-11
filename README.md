@@ -12,9 +12,9 @@ Creative COLOR Design Produces✨
 ---
 #
 
-COLOR STONE Iconpack Project is a fork repository of Stone Plus Iconpack.🎨
+COLOR STONE Iconpack Project is a fork repository of Stone Plus Iconpack.[About Stone Plus Iconpack.](https://github.com/a-Little-Design/stone-plus-iconpack)🎨
 
-Yuanshi Design Style is the design standard and specification of COLOR STONE Iconpack Project.💎
+Yuanshi Design Style is the design standard and specification of COLOR STONE Iconpack Project.[About Yuanshi Design Style.](https://github.com/a-Little-Design/stone-plus-iconpack/blob/main/README-design.md)💎
 
 #
 ---
