@@ -21,7 +21,7 @@ Yuanshi Design Style is the design standard and specification of COLOR STONE Ico
 #
 
 
-[![Get](https://github.com/Creative-COLOR-Design/COLOR/blob/main/sample/art/promo/google-play-badge.png?raw=true)](https://github.com/a-Little-Design/stone-plus-iconpack)
+[![Get](https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/google-play-badge.png)](https://github.com/a-Little-Design/stone-plus-iconpack)
 
 
 #
