@@ -31,6 +31,14 @@ Yuanshi Design Style is the design standard and specification of COLOR STONE Ico
 ---
 #
 
+<p align="center">
+<img src="https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/StonePlus-Play-Promo-A2.webp" />
+</p>
+
+#
+---
+#
+
 # Features: :radio_button: 
 - Material Design dashboard.🎨
 - In-app Icon Requests tool.💻
@@ -43,13 +51,6 @@ Yuanshi Design Style is the design standard and specification of COLOR STONE Ico
 - Remove some module from original codes.🔨
 - Improve some details.🔧
 
-#
----
-#
-
-<p align="center">
-<img src="https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/StonePlus-Play-Promo-A2.webp" />
-</p>
 
 #
 ---
