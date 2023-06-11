@@ -13,6 +13,7 @@ There are three different iconpack with Yuanshi Design Style now.🎁
 # Downloads🎨
 Yuanshi Design Style Iconpack Here.💎
 
+[![Google Play](https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.ga.iconpack.stoneplus)
 
 
 # Preview🎁
