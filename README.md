@@ -1,4 +1,4 @@
-# COLOR STONE Iconpack🎨
+# COLOR STONE Iconpack Project🎨
 Creative COLOR Design Produces✨
 
 #
