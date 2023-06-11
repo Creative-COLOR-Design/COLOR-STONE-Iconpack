@@ -1,23 +1,23 @@
 # COLOR STONE Iconpack Project🎨
 Creative COLOR Design Produces✨
 
----
+#
 
 
 :blue_heart: A beautiful iconpack App With Blueprint Android Dashboard. [![GitHub stars](https://img.shields.io/github/stars/jahirfiquitiva/Blueprint.svg?style=social&label=Star)](https://github.com/jahirfiquitiva/Blueprint)
 [About Blueprint.](https://github.com/jahirfiquitiva/Blueprint)💎
 
 
----
+#
 
 
 COLOR STONE Iconpack Project is a fork repository of Stone Plus Iconpack. [About Stone Plus Iconpack.](https://github.com/a-Little-Design/stone-plus-iconpack)🎨
 
 Yuanshi Design Style is the design standard and specification of COLOR STONE Iconpack Project. [About Yuanshi Design Style.](https://github.com/a-Little-Design/stone-plus-iconpack/blob/main/README-design.md)💎
 
-#
+
 ---
-#
+
 
 [![Google Play](https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.ga.iconpack.stoneplus)
 
