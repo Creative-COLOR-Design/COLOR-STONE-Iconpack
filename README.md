@@ -97,8 +97,17 @@ This Application file which the package of APK, is shared under the [Attribution
 # Preview🎁
 <p align="center">
 <img src="https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/StonePlus-Play-Promo1.webp" />
+#
+---
+#
 <img src="https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/StonePlus-Play-Promo2.webp" />
+#
+---
+#
 <img src="https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/StonePlus-Play-Promo3.webp" />
+#
+---
+#
 <img src="https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/StonePlus-Play-Promo4.webp" />
 
 #
