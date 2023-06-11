@@ -1,5 +1,4 @@
 # Yuanshi Design Style💎
-#
 Yuanshi Design Style, What is the Icons Design Style with colorful material and textured.🎨
 #
 # Ideas✨
