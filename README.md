@@ -30,7 +30,7 @@ Yuanshi Design Style is the design standard and specification of COLOR STONE Ico
 <img src="https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/StonePlus-Play-Promo-A1.webp" />
 </p>
 
-#
+---
 
 <p align="center">
 <img src="https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/StonePlus-Play-Promo-A2.webp" />
