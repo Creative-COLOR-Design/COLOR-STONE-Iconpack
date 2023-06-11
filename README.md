@@ -38,6 +38,17 @@ Creative COLOR Design Produces✨
 - Remove some module from original codes.🔨
 - Improve some details.🔧
 
+#
+---
+#
+
+<p align="center">
+<img src="https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/StonePlus-Play-Promo-A2.webp" />
+</p>
+
+#
+---
+#
 
 # Licenses💎
 # Source Code Licenses
