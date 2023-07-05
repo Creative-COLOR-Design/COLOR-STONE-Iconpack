@@ -1,4 +1,7 @@
-# About Apps🎁
+# COLOR STONE Iconpack Project ✨
+
+
+# About Apps 🎁
 
 [Stone Plus Iconpack💎](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/blob/main/README_Stone_Plus.md)
 
