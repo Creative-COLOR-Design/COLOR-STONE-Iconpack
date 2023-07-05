@@ -1,15 +1,15 @@
 # COLOR STONE Iconpack Project ✨
 
 
-# About Apps 🎁
+# About Apps Preview🎁
 
-[Stone Plus Iconpack💎](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/blob/main/README_Stone_Plus.md)
+ 👉[Stone Plus Iconpack💎](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/blob/main/README_Stone_Plus.md)
 
-[HYPEROVAL STONE Iconpack💎](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/blob/main/README_HYPEROVAL.md)
+ 👉[HYPEROVAL STONE Iconpack💎](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/blob/main/README_HYPEROVAL.md)
 
-[COLOR Pro Iconpack💎](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/blob/main/README_COLOR_Pro.md)
+ 👉[COLOR Pro Iconpack💎](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/blob/main/README_COLOR_Pro.md)
 
-[COBBLE Iconpack💎](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/blob/main/README_COBBLE.md)
+ 👉[COBBLE Iconpack💎](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/blob/main/README_COBBLE.md)
 
 ---
 
