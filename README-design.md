@@ -27,6 +27,10 @@ Stone Plus Iconpack💎
 
 ---
 
+[![Google Play](https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.ga.iconpack.hyperoval.play)
+
+
+
 # Preview🎁
 
 HYPEROVAL STONE Iconpack💎
@@ -39,6 +43,10 @@ HYPEROVAL STONE Iconpack💎
 
 ---
 
+[![Google Play](https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.ga.iconpack.color)
+
+
+
 # Preview🎁
 
 COLOR Pro Iconpack💎
@@ -50,6 +58,10 @@ COLOR Pro Iconpack💎
 </p>
 
 ---
+
+[![Google Play](https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.ga.iconpack.cobble)
+
+
 
 # Preview🎁
 
