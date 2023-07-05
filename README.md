@@ -1,7 +1,7 @@
 # COLOR STONE Iconpack Project🎨
 Creative COLOR Design Produces✨
 
-All Iconpack Produces Information And Preview Here.🎁
+All Creative COLOR Desig Iconpack Produces And Preview Here.🎁
 
 #
 
