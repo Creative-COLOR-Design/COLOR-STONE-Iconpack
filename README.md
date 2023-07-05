@@ -41,7 +41,7 @@ Yuanshi Design Style is the design standard and specification of COLOR STONE Ico
 #
 
 # Wiki: 🎨 
-- How to change the icon pack on Android phone. [Wiki Page here.](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/wiki/Change-Icon-Pack-on-Android-Phone)🎨
+- How to change the icon pack on Android phone. [Wiki Page here.](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/wiki/Change-Icon-Pack-on-Android-Phone)💎
 
 
 # Features: :radio_button: 
