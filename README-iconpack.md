@@ -11,6 +11,7 @@
 
  👉[COBBLE Iconpack💎](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/blob/main/README_COBBLE.md)
 
+ 👉[COLOR Iconpack💎](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/blob/main/README_COLOR.md)
 ---
 
 # Yuanshi Design Style💎
@@ -56,6 +57,18 @@ COLOR Pro Iconpack💎
 COBBLE Iconpack💎
 
 [![Google Play](https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.ga.iconpack.cobble)
+
+
+---
+
+# Downloads🎨
+Creative COLOR Design Style Iconpack Here.💎
+
+---
+
+COLOR Iconpack💎
+
+[![Google Play](https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.ga.icons.color)
 
 
 ---
