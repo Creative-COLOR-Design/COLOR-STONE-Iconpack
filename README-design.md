@@ -80,9 +80,13 @@ Creative COLOR Design Style Iconpack Here.💎
 
 ---
 
+[![Google Play](https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.ga.icons.color)
+
 # Preview🎁
 
 COLOR Iconpack💎
+
+
 
 <p align="center">
 <img src="https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/COLOR-Play-Promo-AW1.webp" />
