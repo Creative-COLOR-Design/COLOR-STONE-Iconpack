@@ -12,6 +12,10 @@
  👉[COBBLE Iconpack💎](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/blob/main/README_COBBLE.md)
 
  👉[COLOR Iconpack💎](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/blob/main/README_COLOR.md)
+
+ 👉[COLOR Iconpack💎](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/blob/main/README_Celadon.md)
+
+ 👉[COLOR Iconpack💎](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/blob/main/README_Porcelain.md)
  
 ---
 
@@ -71,5 +75,17 @@ COLOR Iconpack💎
 
 [![Google Play](https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.ga.icons.color)
 
+
+---
+
+Celadon Iconpack💎
+
+[![Google Play](https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.ga.iconpack.celadon)
+
+---
+
+Porcelai Iconpack💎
+
+[![Google Play](https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.ga.iconpack.porcelain)
 
 ---
