@@ -129,6 +129,14 @@ This Application file which the package of APK, is shared under the [Attribution
 <img src="https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/COLOR-Play-Promo-AW1.webp" />
 </p>
 
+<p align="center">
+<img src="https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/Celadon-Play-Promo-AW1.webp" />
+</p>
+
+<p align="center">
+<img src="https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/Porcelain-Play-Promo-AW1.webp" />
+</p>
+
 #
 ---
 #
