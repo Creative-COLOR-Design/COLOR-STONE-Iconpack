@@ -13,9 +13,9 @@
 
  👉[COLOR Iconpack💎](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/blob/main/README_COLOR.md)
 
- 👉[COLOR Iconpack💎](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/blob/main/README_Celadon.md)
+ 👉[Celadon Iconpack💎](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/blob/main/README_Celadon.md)
 
- 👉[COLOR Iconpack💎](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/blob/main/README_Porcelain.md)
+ 👉[Porcelain Iconpack💎](https://github.com/Creative-COLOR-Design/COLOR-STONE-Iconpack/blob/main/README_Porcelain.md)
  
 ---
 
@@ -84,7 +84,7 @@ Celadon Iconpack💎
 
 ---
 
-Porcelai Iconpack💎
+Porcelain Iconpack💎
 
 [![Google Play](https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.ga.iconpack.porcelain)
 
