@@ -95,3 +95,36 @@ COLOR Iconpack💎
 
 
 ---
+
+
+[![Google Play](https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.ga.iconpack.celadon)
+
+# Preview🎁
+
+Celadon - Icon Pack ( Alpha )💎
+
+
+
+<p align="center">
+<img src="https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/Celadon-Play-Promo-AW1.webp" />
+</p>
+
+
+
+---
+
+[![Google Play](https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.ga.iconpack.porcelain)
+
+# Preview🎁
+
+Porcelain - Icon Pack (Alpha)💎
+
+
+
+<p align="center">
+<img src="https://github.com/Creative-COLOR-Design/COLOR/raw/main/sample/art/promo/Porcelain-Play-Promo-AW1.webp" />
+</p>
+
+
+
+---
